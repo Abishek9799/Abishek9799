@@ -1,4 +1,8 @@
-### Hi there 👋
+## Contents
+
+- ### Machine Learning
+    - [bhg](www.google.com)
+    - Use the neural network package in SKLEARN ONLY, to design the best network for me to use on similar data in the future. Also, I want to know about the quality of your model. Provide an estimate the generalization error of the model you recommend
 
 <!--
 **Abishek9799/Abishek9799** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
