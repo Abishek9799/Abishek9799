@@ -1,7 +1,12 @@
 ## Contents
 
-- ### Machine Learning
-    - [bhg](https://github.com/Abishek9799/Reddit_Comments/blob/master/Reddit%20Immediate%20Comment%20Tree-%20Networkx.py)
+ * ### Machine Learning
+     * [Learning Curves for Classification:](https://github.com/Abishek9799/Projects-Python/blob/master/learning%20curves%20for%20classification%20using%20MNIST%20dataset.ipynb) Exercised the MNIST dataset with 1797 samples and 64 features. Computed the classification methods and found the best tuning parameters for each of the following model using cross validation.
+                    
+                    1) Linear SVM
+                    2) Kernel SVM
+                    3) Logistic Regression
+ 
     - Use the neural network package in SKLEARN ONLY, to design the best network for me to use on similar data in the future. Also, I want to know about the quality of your model. Provide an estimate the generalization error of the model you recommend
 
 <!--
