@@ -12,9 +12,17 @@
        1) **Part I:** Visualized the plot for the fitted models to choose the best polynomial order and coefficients. 
        2) **Part II:** Applied **Ridge Regression** to control the model complexity and used cross validation method to find the best tuning parameter for the model.
        3) **Part III:** Computed the Bias and Variance for different polynomial order to understand the performance each model.
-            
- 
-    - Use the neural network package in SKLEARN ONLY, to design the best network for me to use on similar data in the future. Also, I want to know about the quality of your model. Provide an estimate the generalization error of the model you recommend
+     * [Prediction of House Price using Lasso and Ridge Regression:](https://github.com/Abishek9799/Projects-Python/blob/master/Prediction%20of%20House%20Price%20using%20Lasso%20and%20Ridge%20Regression.ipynb) With 79 explanatory variables describing the aspect of residential homes. The goal is to predict the final price of each home.
+        1) **Part I:** Applied the **Lasso Regression** with different tuning parameters using cross-validation method and visualized cross-validation error vs different tuning parameters
+        2) **Part II:** Applied the **Ridge Regression** with different tuning parameters using cross-validation method and visualized cross-validation error vs different tuning parameters 
+     * [Neural Network](https://github.com/Abishek9799/Projects-Python/blob/master/Neural_Network.ipynb) Exercised the Avila dataset to select the best tuning parameter(Neural Network) for the model using GridsearchCV. Estimated the **generalization error** with the best tuned parameters of the model.  
+     * [Support Vector Machine (SVM):](https://github.com/Abishek9799/Projects-Python/blob/master/SVM.ipynb) Used the diabetes dataset to design a best network with the SVM package. Balanced the imbalance dataset and found the best tuning parameters for the model using GridsearchCV method. Estimated the **generalization error and balanced error rate (BER)** with the best tuned parameters of the model.
+     * [Adaboost Classifier with decision tree learner:](https://github.com/Abishek9799/Projects-Python/blob/master/Adaboost%20classifier%20with%20decision%20tree.ipynb) A best boosted decision tree model is selected using Adaboost classifier package with decision tree as base learner in the diabetes dataset. Estimated the **generalization error** with the best tuned parameters of the model.
+     * [Prediction of Unlabeled data:](https://github.com/Abishek9799/Projects-Python/blob/master/Prediction%20of%20Unlabeled%20data.ipynb) 
+       - Executed the data preprocessing techniques, balanced the imbalanced dataset and developed a model by implementing various machine learning algorithms on the bank dataset with 22 attributes and 1 response. 
+       - Tuned and found the best hyper-parameters using the GridsearchCV method on each model. Predicted the target values for the test data. Compared accuracy, generalization error ,and a balanced error rate of each model.
+     * [Videogame sales analysis and visualization:](https://github.com/Abishek9799/Projects-Python/blob/master/Video_Game_SalesAnalysis%20and%20Visualization.ipynb)
+       - Done a **Exploratory Data Analysis** on a video game sales dataset with more than 16,500 games released from 1980 to 2020. Demonstrated extraction of useful features from different variables using pandas, numpy, matplotlib, seaborn packages.
 
 <!--
 **Abishek9799/Abishek9799** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
