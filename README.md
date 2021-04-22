@@ -31,4 +31,18 @@
         * 
  
 *  ### Projects in R language
-    [USDA - Hawaii State (Animals data Analysis)](https://github.com/Abishek9799/R-Language-Projects/blob/main/USDA%20-%20Hawaii%20State%20(Animals%20data%20Analysis).Rmd) Analyzed Hawaii's most recent Agriculture (Animal data) census of 2017.
+    * **USDA - Hawaii State (Animals data Analysis):** Analyzed Hawaii's most recent Agriculture (Animal data) census of 2017.
+      - [Code file](https://github.com/Abishek9799/R-Language-Projects/blob/main/USDA%20-%20Hawaii%20State%20(Animals%20data%20Analysis).Rmd) 
+      - [HTML file](https://rpubs.com/Abishek_RK/hawaii_agriculture_analysis)
+    * **Dynamic Data Dashboard on Tempe road accidents:** Designed an interactive dashboard with the Tempe traffic accidents data to explore, and visualize the effects of the crash on various factors like age, gender, time of day, and Weather on the roads.
+      - [Dashboard](https://abishek-rk.shinyapps.io/Tempe_Traffic_Accidents_Data/)
+      - [Code](https://github.com/Abishek9799/R-Language-Projects/blob/main/Tempe_Traffic_Accidents.rmd)
+   * **Data Wrangling - Tempe Accident Analysis:** Looked for the patterns that helps to understand the causes of traffic accidents in the city, and suggest some ways to reduce injuries and fatalities by using the crash data from the tempe city’s open data portal
+     - [Code file](https://github.com/Abishek9799/R-Language-Projects/blob/main/Data%20Wrangling%20-%20Tempe%20Accident%20Analysis%20R5.Rmd)
+     - [HTML file](https://rpubs.com/Abishek_RK/data_wrangling_of_tempe_accidents_data) 
+  * **Dynamic Visualization of Baseball data:** Implemented R Shiny package, to create dynamic graphics that ask for an input from the user and change based upon the selection.
+     - [Code file](https://github.com/Abishek9799/R-Language-Projects/blob/main/Dynamic%20Visualization%20R4.Rmd)
+     - [HTML file](https://abishek-rk.shinyapps.io/Dynamic_Visualization/)
+  * **Data Visualization of Baseball data:** Created customizable graphics by understanding the core plotting functions in the NYT baseball dataset. The dataset contains season statistics for each baseball team from the late 1800s onward. 
+    - [Code file](https://github.com/Abishek9799/R-Language-Projects/blob/main/Data%20Visualization(Graphics)%20in%20R%20R3.Rmd)
+    - [HTML file](https://rpubs.com/Abishek_RK/Data_visualization_baseball)
