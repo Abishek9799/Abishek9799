@@ -25,10 +25,6 @@
        - Done a **Exploratory Data Analysis** on a video game sales dataset with more than 16,500 games released from 1980 to 2020. Demonstrated extraction of useful features from different variables using pandas, numpy, matplotlib, seaborn packages.
 
 
- * ### Natural Language Processing
-    ** Reddit threaded conversation** Web scraped Reddit threaded conversation on Nursing, Anxiety, Unemployment and Accounting posts and comments using pushshift API & done a sentimental analysis for more than 300 K comment trees on each post to get insights associated with the volume, responsiveness, and virality during COVID – 19 pandemic. Estimated the TF-IDF and cosine similarity for each comment tree. Following are the codes exercised for this analysis.
-        * [Scraping Reddit data]()
-        * 
  
 *  ### Projects in R language
     * **USDA - Hawaii State (Animals data Analysis):** Analyzed Hawaii's most recent Agriculture (Animal data) census of 2017.
