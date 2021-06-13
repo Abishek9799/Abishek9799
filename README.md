@@ -27,7 +27,7 @@
 
  
 *  ### Projects in R language
-    * **USDA - Hawaii State (Animals data Analysis):** Analyzed Hawaii's most recent Agriculture (Animal data) census of 2017.
+    * **USDA - Hawaii State (Animals data Analysis):** Analyzed and Visualized Hawaii's most recent Agriculture (Animal data) census of 2017.
       - [Code file](https://github.com/Abishek9799/R-Language-Projects/blob/main/USDA%20-%20Hawaii%20State%20(Animals%20data%20Analysis).Rmd) 
       - [HTML file](https://rpubs.com/Abishek_RK/hawaii_agriculture_analysis)
     * **Dynamic Data Dashboard on Tempe road accidents:** Designed an interactive dashboard with the Tempe traffic accidents data to explore, and visualize the effects of the crash on various factors like age, gender, time of day, and Weather on the roads.
